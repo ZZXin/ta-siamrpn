@@ -6,3 +6,5 @@ matplotlib
 colorama
 cython
 tensorboardX
+scipy
+pillow
